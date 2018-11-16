@@ -1,0 +1,2 @@
+An interactive animation produced by programming in OpenFrameworks.
+This is a story of  between line and rectangle. Being different is never a shame. How you look at yourself is more important than any others' view and judgment. Be happy, confident, and yourself.
